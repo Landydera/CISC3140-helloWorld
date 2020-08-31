@@ -1,1 +1,1 @@
-Lab # 1 Program Hello Word. 
+Lab # 1 "Hello Word" Program. 
